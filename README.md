@@ -4,9 +4,9 @@
 - 📚 Estou aprendendo pelas aulas na Digital Innovation One
 
 <div>
-<a href="https://github.com/favoriteway">
+<a href="https://github.com/favoriteway"> 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=favoriteway&show_icons=true&theme=cobalt&include_all_commits=true"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favoriteway&layout=compact&theme=cobalt"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favoriteway&layout=compact&theme=cobalt"/> </a>
 </div>
 
 ##
@@ -21,9 +21,10 @@
 ##
   
   <div>
+    <p> Contate-me via:</p>
    <a href="https://www.linkedin.com/in/elac/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
-  
+    <a href="mailto:elarcds@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+   
   </div>
 
 ##
