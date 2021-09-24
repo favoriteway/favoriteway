@@ -1,5 +1,7 @@
 - 👋 Olá, eu sou a Elaine AC
-- 🌱 Estou estudando atualmente Javascript
+- 👩‍🎓 Sou aluna do 1º Emprego Tech de Curitiba
+- 🌱 Estou estudando atualmente Javascript e Phyton
+- 🛠 Estou aprendendo através das aulas na Digital Innovation One
 
 <div>
 <a href="https://github.com/favoriteway">
@@ -12,17 +14,28 @@
 <img align="center" alt="ea-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="ea-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="ea-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="ea-phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
 
 ##
+  
+  <div>
+   <a href="https://www.linkedin.com/in/elac/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
+  
+  </div>
 
-
+##
   ![Snake animation](https://github.com/favoriteway/favoriteway/blob/output/github-contribution-grid-snake.svg)
 
+  ##
+ <div>
+   <p><em> 💻 Este perfil continua sendo atualizado, enquanto aperfeiçoo meu aprendizado 💻</p> </em>
+    <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+    </div>
 
-
-
+   
 <!---
 favoriteway/favoriteway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
