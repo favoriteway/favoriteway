@@ -18,6 +18,7 @@
 ##
 
 <div>
+  ![Snake animation](https://github.com/favoriteway/favoriteway/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
