@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou a Elaine AC
 - 👩‍🎓 Sou aluna do 1º Emprego Tech de Curitiba
 - 🌱 Estou estudando atualmente Javascript e Phyton
-- 🛠 Estou aprendendo através das aulas na Digital Innovation One
+- 📚 Estou aprendendo pelas aulas na Digital Innovation One
 
 <div>
 <a href="https://github.com/favoriteway">
